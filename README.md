@@ -1,5 +1,5 @@
 # Javascript-tutorial
-Javascript Tutorials
+
 LESSON LAYOUT
 
 Requirements
